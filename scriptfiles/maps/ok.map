@@ -1,0 +1,3 @@
+new g_Object[2];
+g_Object[0] = CreateObject(320, 2177.3393, -1349.2102, 26.8554, 0.0000, 0.0000, 0.0000); //airtrain_vlo
+g_Object[1] = CreateObject(322, 2177.3298, -1348.4849, 26.8554, 0.0000, 0.0000, 0.0000); //gun_dildo2
